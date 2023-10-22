@@ -1,3 +1,10 @@
 //Presentation of the milestones (programs developed, topology fragment discovered) and the associated date/time. For each program developed, provide the finish date/time and the resposible team member(s) .
 //For each toppology fragment discovered, show the screeshots of the program output, draw the diagram of the topology fragment, and provide the name and Howard ID of the team member making the discovery. 
 //Each Topology fragment  can only be attributed to one team member
+
+
+Just uploaded a version of the code that I think is complete. Our enxt steps now are to go around campus and run this traceroute at different buildings, and next we'll need to develop a program to be able to read the output
+and produce a topology map from it. Once that program is completed I believe that we will be close to being done with this project.
+
+traceroute.py October 22nd Yassen Elshaikh
+
