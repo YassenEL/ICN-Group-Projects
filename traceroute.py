@@ -17,7 +17,7 @@ def traceroute_ip(ip):
         hops += 1
         if reply is None:
             # No reply
-            print(f"No reply for {ip} (TTL={ttl})")
+            
             break
         elif reply.type == 0:
             # We've reached our destination
