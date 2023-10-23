@@ -5,8 +5,8 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # Define the destination IP range you want to scan
-start_ip = "1.2.3.1"
-end_ip = "1.2.4.2"
+start_ip = "108.48.92.156"
+end_ip = "108.48.95.156"
 
 # Define the maximum number of hops
 max_hops = 28
@@ -27,13 +27,16 @@ def traceroute_ip(ip):
         elif reply.type == 0:
             # We've reached our destination
             G.add_node(ip, ttl=ttl)
-            G.add_edge(ip, reply.src, ttl=ttl)
+            if ip != reply.src:  # Check for self-loop
+                G.add_edge(ip, reply.src, ttl=ttl)
             print(f"Done! {ip} -> {reply.src} (TTL={ttl})")
+            hops = 0
             break
         else:
             # We're in the middle somewhere
             G.add_node(ip, ttl=ttl)
-            G.add_edge(ip, reply.src, ttl=ttl)
+            if ip != reply.src:  # Check for self-loop
+                G.add_edge(ip, reply.src, ttl=ttl)
             print(f"We are at {hops} hops away: {ip} -> {reply.src} (TTL={ttl})")
 
 def main():
