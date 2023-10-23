@@ -5,8 +5,8 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # Define the destination IP range you want to scan
-start_ip = "108.48.92.156"
-end_ip = "108.48.95.156"
+start_ip = "138.238.254.99"
+end_ip = "138.238.254.255"
 
 # Define the maximum number of hops
 max_hops = 28
@@ -57,12 +57,18 @@ def main():
         thread.start()
 
     # Wait for all threads to finish
+
     for thread in threads:
         thread.join()
 
     # Visualize the network graph
-    pos = nx.spring_layout(G)  # You can choose different layout algorithms
-    nx.draw(G, pos, with_labels=True)
+    pos = nx.spring_layout(G, k=0.2)  # Adjust the 'k' value to control node separation
+    nx.draw(G, pos, with_labels=False)  # Turn off automatic labeling
+
+    # Customize node labels to have red text font and a smaller font size
+    node_labels = {node: node for node in G.nodes()}
+    nx.draw_networkx_labels(G, pos, labels=node_labels, font_color='red', font_size=8)  # You can adjust the font size as needed
+
     labels = nx.get_edge_attributes(G, 'ttl')
     nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)
     plt.show()
