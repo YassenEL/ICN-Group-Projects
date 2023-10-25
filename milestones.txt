@@ -1,4 +1,4 @@
-//Presentation of the milestones (programs developed, topology fragment discovered) and the associated date/time. For each program developed, provide the finish date/time and the responsible team member(s) .
+//Presentation of the milestones (programs developed, topology fragment discovered) and the associated date/time. For each program developed, provide the finish date/time and the responsible team member(s).
 //For each topology fragment discovered, show the screenshots of the program output, draw the diagram of the topology fragment, and provide the name and Howard ID of the team member making the discovery. 
 //Each Topology fragment  can only be attributed to one team member
 
@@ -22,8 +22,10 @@ New Topology Fragment at Annex 3 on October 24th at 1:30 P.M.
 
 New Topology Fragment at Biology Building on October 24th at 2:00 P.M.
 
-New Topology Fragment at Burr Gymnasium on October 25th at 4:13P.M
+New Topology Fragment at Burr Gymnasium on October 25th at 4:13 P.M
 
-New Topology Fragment at School of Buisness on October 25th at 4:20P.M.
+New Topology Fragment at School of Business on October 25th at 4:20 P.M.
+
+New Topology Fragment at Mordecai Johnson Administration Building on October 25th at 4:34 P.M
 
 
