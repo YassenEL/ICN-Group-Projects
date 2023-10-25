@@ -1,26 +1,28 @@
-//Presentation of the milestones (programs developed, topology fragment discovered) and the associated date/time. For each program developed, provide the finish date/time and the resposible team member(s) .
-//For each toppology fragment discovered, show the screeshots of the program output, draw the diagram of the topology fragment, and provide the name and Howard ID of the team member making the discovery. 
+//Presentation of the milestones (programs developed, topology fragment discovered) and the associated date/time. For each program developed, provide the finish date/time and the responsible team member(s) .
+//For each topology fragment discovered, show the screenshots of the program output, draw the diagram of the topology fragment, and provide the name and Howard ID of the team member making the discovery. 
 //Each Topology fragment  can only be attributed to one team member
 
 
-Just uploaded a version of the code that I think is complete. Our enxt steps now are to go around campus and run this traceroute at different buildings, and next we'll need to develop a program to be able to read the output
-and produce a topology map from it. Once that program is completed I believe that we will be close to being done with this project.
+Just uploaded a version of the code that I think is complete. Our next steps now are to go around campus and run this traceroute at different buildings, and next we'll need to develop a program to be able to read the output
+and produce a topology map from it. Once that program is completed, I believe we will be close to completing this project.
 
 traceroute.py October 22nd Yassen Elshaikh
 
 New Topology Fragment at Locke Hall on October 23rd Yassen Elshaikh 2:30 P.M.
 Locke.pdf(Contains the output files)
 
-Nww Topology Fragment at Douglass Hall on October 23rd 2:48 P.M.
+Nww Topology Fragment at Douglass Hall on October 23rd at 2:48 P.M.
 Douglass.pdf
 
-New Topology Fragment at Chemistry Building on October 23rd 3:09 P.M.
+New Topology Fragment at Chemistry Building on October 23rd, 3:09 P.M.
 ChemBuilding.pdf
 
-New Topology Fragment at Annex 3 on October 24th 1:30 P.M.
+New Topology Fragment at Annex 3 on October 24th at 1:30 P.M.
 
 
-New Topology Fragment at Biology Building on October 24th 2:00 P.M.
+New Topology Fragment at Biology Building on October 24th at 2:00 P.M.
+
+New Topology Fragment at Burr Gymnasium on October 25th at 4:13P.M
 
 
 
