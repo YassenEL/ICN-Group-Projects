@@ -45,9 +45,14 @@ Output/Inabel_Lindsay_Hall
 New Topology Fragment at Mackey Building on October 25th at 4:45 P.M
 Output/Mackey
 
+New Topology Fragment at ILab on October 25th at 4:48 P.M.
+Output/ILab
+
 New Topology Fragment at Thirkheld Physics Building on October 25th 4:58 P.M. 
-Output/
+Output/Physics
+
 New Topology Fragment at ASB on October 25th  4:50 P.M.
+Output/ASB
 
 New Topology Fragment at MET building on October 25th 5:16 P.M.
-
+Output/MET
