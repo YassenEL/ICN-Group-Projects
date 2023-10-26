@@ -2,16 +2,16 @@
 
 Yassen Elshaikh @02967208
 _________________________________________________________________________________
-Helped Develop the main traceroute.py file, went to multiple buildings and discovered topology fragments as shown in the milestones.txt file.
+Helped Develop the main traceroute.py file and topologygraph.py, went to multiple buildings and discovered topology fragments as shown in the milestones.txt file.
 Developed the initial traceroute program from the scapy library, helped develop threading with Cameron. Went to 5 different buildings.
 _________________________________________________________________________________
 Myka Jenkins @03011616
 _________________________________________________________________________________
-Helped Develop the main traceroute.py file, went to multiple buildings and discovered topology fragments as shown in the milestones.txt file.
+Helped Develop the main traceroute.py file and topologygraph.py, went to multiple buildings and discovered topology fragments as shown in the milestones.txt file.
 Developed the topology graph produced after each traceroute is run, went to 5 different buildings on campus as well.
 _________________________________________________________________________________
 Cameron Briggs @03033672
 _________________________________________________________________________________
-Helped Develop the main traceroute.py file, went to multiple buildings and discovered topology fragments as shown in the milestones.txt file.
+Helped Develop the main traceroute.py file and topologygraph.py, went to multiple buildings and discovered topology fragments as shown in the milestones.txt file.
 Found a way to implement multi-threading into the code to allow the tracerouting of multiple IP's at once. Went to 6 different buildings.
 _________________________________________________________________________________
