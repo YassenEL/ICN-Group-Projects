@@ -1,0 +1,33 @@
+//Name and Howard ID fo the team members, and the responsibilities and acheivements of each member
+
+Yassen Elshaikh @02967208
+_________________________________________________________________________________
+Helped Develop the main traceroute.py file, went to multiple buildings and discovered topology fragments as shown in the milestones.txt file.
+
+
+
+
+
+
+
+_________________________________________________________________________________
+Myka Jenkins @03011616
+_________________________________________________________________________________
+Helped Develop the main traceroute.py file, went to multiple buildings and discovered topology fragments as shown in the milestones.txt file.
+
+
+
+
+
+_________________________________________________________________________________
+Cameron Briggs @03033672
+_________________________________________________________________________________
+Helped Develop the main traceroute.py file, went to multiple buildings and discovered topology fragments as shown in the milestones.txt file.
+
+
+
+
+
+
+
+_________________________________________________________________________________
