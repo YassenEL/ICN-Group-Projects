@@ -16,16 +16,16 @@ Output/LockeHall
 Nww Topology Fragment at Douglass Hall on October 23rd at 2:48 P.M.
 Output/Douglass
 
-New Topology Fragment at Chemistry Building on October 23rd, 3:09 P.M.
+New Topology Fragment at Chemistry Building on October 23rd, 3:09 P.M. Myka Jenkins@03011616
 Output/Chemistry
 
-New Topology Fragment at Annex 3 on October 24th at 1:30 P.M.
+New Topology Fragment at Annex 3 on October 24th at 1:30 P.M. Myka Jenkins @03011616
 Output/Annex3
 
-New Topology Fragment at Boseman on October 24th at 1:45 P.M.
+New Topology Fragment at Boseman on October 24th at 1:45 P.M. Myka Jenkins @03011616
 Output/Boseman
 
-New Topology Fragment at Biology Building on October 24th at 2:00 P.M.
+New Topology Fragment at Biology Building on October 24th at 2:00 P.M. Myka Jenkins @03011616
 Output/Biology
 
 New Topology Fragment at Health Sciences Library on October 24th at 2:30 P.M.
@@ -59,14 +59,7 @@ Output/ASB
 New Topology Fragment at MET building on October 25th Myka Jenkins 5:16 P.M.
 Output/MET
 
-New Topology Fragment at Founds Library on October 25th Myka Jenkins at 4:54 P.M.
-Output/Founders Library
 
-New Topology Fragment at Bluckburn on October 25th Myka Jenkins at 2:20 P.M.
-Output/Blackburn
-
-New Topology Fragment at LKD on October 25th Myka Jenkins at 1:48 P.M.
-Output/LKD
 
 
 
