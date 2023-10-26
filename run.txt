@@ -4,3 +4,6 @@ For the traceroute.py script, you first have to run command prompt as administra
 After this is done, if python is installed on your computer, you then need to download all the necessary scripts and doing a pip install for threads, networkx, matplotlib, ipaddress, and scapy. Once everything is installed, all that you have to do is
 change your desired start and end IP, resave the file to update it, and in command prompt type "python traceroute.py". After a few seconds the program should start running a traceroute, if there is nothing happening, then you have either entered a 
 start and end range where the start is greater than the end, or it is simply not a real IP address that is accessible to you.
+
+
+For the topologygraph.py script, you have to first load all the output text files into the same directory as the topologygraph.py script, then just run the script in your preferred IDE. A graph reading all the text files will then pop up showing the full netowrk.
