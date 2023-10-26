@@ -1,6 +1,7 @@
 import networkx as nx
 import os
 import re
+import matplotlib.pyplot as plt
 
 # Create an empty graph
 G = nx.Graph()
@@ -39,8 +40,8 @@ for filename in os.listdir(script_directory):
 # Set the position of nodes to create even more space between them
 pos = nx.spring_layout(G, scale=5000)
 
-# Visualize the combined graph with customized colors
-import matplotlib.pyplot as plt
+
+
 
 # Define node and edge colors
 node_color = 'lightblue'  # Change this to your desired color
