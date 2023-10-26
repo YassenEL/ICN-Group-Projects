@@ -4,3 +4,5 @@
 In our code, we used a program that combined both the traceroute and the graph into one, so that when it is run a map of the topology is constructed with Node which represent the IP addresses from the traceroute to multiple IP addresses. There are then the edges
 constructed to show the path between the IP addresses within the Howard Network, and each IP address represents a new router or network device in Howard's public wifi. 
 
+After all the output text is produced, we then created a python program to read all the output files by only their IP addresses, and to construct a topology network graph given all the traceroutes from around all of Howard's wifi network.
+
