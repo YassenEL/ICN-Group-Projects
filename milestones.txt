@@ -3,8 +3,7 @@
 //Each Topology fragment  can only be attributed to one team member
 
 
-Just uploaded a version of the code that I think is complete. Our next steps now are to go around campus and run this traceroute at different buildings, and next we'll need to develop a program to be able to read the output
-and produce a topology map from it. Once that program is completed, I believe we will be close to completing this project.
+Instead of showing the screenshots and the diagram, since the program output was very large due to having to go through thousands of IP addresses, we have provided the directory within the github or the file if downloaded to see that specific topology fragment and the program output as well.
 
 traceroute.py October 22nd Yassen Elshaikh, Cameron Briggs, Myka Jenkins
 
