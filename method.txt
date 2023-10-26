@@ -1,0 +1,5 @@
+//Description of the approaches to construct the topology
+
+
+In my code, I used a program that combined both the traceroute and the graph into one, so that when it is run a map of the topology is constructed with Node which represent the IP addresses from the traceroute to multiple IP addresses. There are then the edges
+constructed to show the path between the IP addresses within the Howard Network, and each IP address represents a new router or network device in Howard's public wifi. 
