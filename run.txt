@@ -1,0 +1,6 @@
+// The instructions to run the code and/or scripts
+
+For the traceroute.py script, you first have to run command prompt as administrator when you have downloaded the file, and change the directory to the location you have traceroute.py stored(Ex. cd C:\Users\john\PythonProjects).
+After this is done, if python is installed on your computer, you then need to download all the necessary scripts and doing a pip install for threads, networkx, matplotlib, ipaddress, and scapy. Once everything is installed, all that you have to do is
+change your desired start and end IP, resave the file to update it, and in command prompt type "python traceroute.py". After a few seconds the program should start running a traceroute, if there is nothing happening, then you have either entered a 
+start and end range where the start is greater than the end, or it is simply not a real IP address that is accessible to you.
